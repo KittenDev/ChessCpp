@@ -1,0 +1,3 @@
+C:/Users/Dafa Alfarizki/CLionProjects/Group9Project/cmake-build-debug/CMakeFiles/Group9Project.dir
+C:/Users/Dafa Alfarizki/CLionProjects/Group9Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dafa Alfarizki/CLionProjects/Group9Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
